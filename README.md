@@ -1,3 +1,3 @@
 # projects
 
-This minesweeper project is from codeCademy.
+This minesweeper project is from Codecademy.
