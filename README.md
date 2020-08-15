@@ -1,3 +1,3 @@
 # projects
 
-This minesweeper project is from Codecademy.
+This project is from the React Codecademy course.
